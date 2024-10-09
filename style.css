@@ -51,7 +51,7 @@ header.scrolled {
 
 .samsung-mobile {
     position: relative;
-    background-image: url('/PRODIGY_WD_01/resources/samsung_S24Ultra_1440x450.jpg');
+    background-image: url('resources\Hover_Effect_&_Scrolled_State.png');
     height: 800px;
     background-position: center;
     text-align: center;
